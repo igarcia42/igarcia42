@@ -8,7 +8,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">🔧 Desarrollador web en formación, con el objetivo de convertirme en Full Stack Developer. Actualmente aprendiendo desarrollo web con tecnologías como JavaScript, React.js, Node.js y Python, y explorando conceptos de APIs REST, bases de datos y buenas prácticas de desarrollo.</p>
+<p align="left">🔧 Desarrollador web en formación, con el objetivo de convertirme en Full Stack Developer. Actualmente aprendiendo desarrollo web con tecnologías como JavaScript, React.js, Java y Python, y explorando conceptos de APIs REST, bases de datos y buenas prácticas de desarrollo.</p>
 
 - 🌱 Creo que el aprendizaje es un proceso continuo y cada día es una oportunidad para mejorar habilidades técnicas y de resolución de problemas.
 
